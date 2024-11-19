@@ -1,0 +1,16 @@
+[
+  {
+    "nombre": "cachupin",
+    "edad": "5",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "decaimiento"
+  },
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  }
+]
